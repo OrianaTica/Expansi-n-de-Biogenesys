@@ -63,3 +63,13 @@ Brasil, Argentina y Colombia son los países con mortalidades mas altas, sin emb
 - Situacion actual:
 Brasil es el país con mayor numero de contagiados y recuperados, lo que puede estar relacionado con su densidad poblacional. 
 La cifra de fallecidos es mucho menor comparada con los casos activos y fallecidos, lo que puede explicarse por la implementación de la vacunación.
+
+
+## Conclusiones 
+Brasil tiene la mayor cantidad de casos confirmados acumulados y fallecimientos, lo que refleja la magnitud de la pandemia en este país, aunque también ha administrado una cantidad significativa de vacunas.
+ Chile destaca como el país con la estrategia de vacunación más agresiva (3.54 dosis por habitante) y ha logrado una cobertura de vacunación casi total, lo que probablemente ha ayudado a reducir su tasa de mortalidad.
+ En cuanto a la fatalida, no se encuentran diferencias entre los países.
+La prevalencia de enfermedades subyacentes, como el tabaquismo en Chile y la diabetes en Argentina y México, podría estar afectando las tasas de mortalidad, se necesitaría mayor información sobre otras patologías presentes en la población que puedan estar influyendo en el aumento de la tasa de fatalidad por COVID.
+En consonancia con los análisis anteriores se concluye que CHILE, PERU Y ARGENTINA son los países con mejor manejo de la pandemia. 
+Brasil y Colombia son los países que demuestran necesitar mas ayuda en términos del control sanitario, por lo que son los países en los que la creación de nuevos centros farmacéuticos seria un éxito.
+
